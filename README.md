@@ -1,6 +1,7 @@
 The goal of this exercise is to detect corners with the Harris corner detection algorithm.
 
-cornerDetection Function 
+**cornerDetection Function** 
+```
 • Function takes input from im_gray image, window size, and threshold.
 • Derivatives computed using convolution and dx difference filter.
 • Factors calculated using A11, A12, A21, A22.
@@ -13,7 +14,8 @@ cornerDetection Function
 • Corners' x and y coordinates stored in appropriate cell arrays.
 
 
-Corners
+**Corners**
+```
 • Selecting threshold and window.
 • Reading video with VideoReader function.
 • Outputting frame with readFrame.
