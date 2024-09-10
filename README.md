@@ -13,7 +13,7 @@ The goal of this exercise is to detect corners with the Harris corner detection 
 • Four cases distinguished: positive, negative, positive, negative, or flat region.
 • Corners' x and y coordinates stored in appropriate cell arrays.
 
-
+```
 **Corners**
 ```
 • Selecting threshold and window.
